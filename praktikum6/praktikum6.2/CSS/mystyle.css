@@ -1,0 +1,172 @@
+#wrapper_header{
+    width: 1440px;
+    height: 750px;
+    background-color: white;
+}
+#judul{
+    width: 650px;
+    height: 80px;
+    background-color: #FFF8EA;
+    margin-left: 28%;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: #815B5B;
+}
+#judul h1{
+    text-align: center;
+    color: #594545;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#nav{
+    width: 350px;
+    height: 660px;
+    background-color: white;
+    float: left;
+    margin-top: 20px;
+}
+#nav-top{
+    width: 350px;
+    height: 200px;
+    background-color: #FFF8EA;
+    border-radius: 20px;
+    border-color: #815B5B;
+    border-style: dashed;
+}
+#nav-top ul{
+    list-style: none;
+    padding-top: 30px;
+    padding-left: 120px;
+    font-size: 25px;
+}
+#nav-top a{
+    color: #815B5B;
+}
+#nav-bot{
+    width: 350px;
+    height: 310px;
+    background-color: #FFF8EA;
+    margin-top: 90px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #815B5B;
+}
+#nav-bot blockquote{
+    padding-top: 30px;
+    font-size: 22px;
+    color: #815B5B;
+}
+#image1{
+    width: 400px;
+    height: 660px;
+    background-color: white;
+    margin-left: 28%;
+    margin-top: 20px;
+}
+#burung1{
+    margin-left: 50px;
+    border-radius: 20px;
+}
+#burung2{
+    margin-left: 50px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+#des{
+    width: 600px;
+    height: 660px;
+    background-color: white;
+    float: right;
+}
+#des p{
+    font-size: 27px;
+    padding-top: 15px;
+    color: #594545;
+    font-family: fantasy;
+}
+
+#wrapper_content{
+    width: 1440px;
+    margin-top: 200px;
+    display: flex;
+}
+#burung3{
+   float: left;
+}
+#profil{
+    width: 900px;
+    float: right;
+   
+}
+#content2{
+    width: 100%;
+    display: flex;
+    margin-top: 100PX;
+}
+#beternak{
+    width: 60%;
+    float: left;
+}
+#burung3{
+    float: right;
+}
+#group1{
+    width: 500px;
+    height: 200px;
+    margin-left: 30%;
+    display: flex;
+    margin-top: 10%;
+}
+#box1{
+    width: 200px;
+    height: 200px;
+    background-color: #D7C59B;
+    border-radius: 25px 100px;
+}
+#box2{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px 25px;
+    margin-left: 10px;
+}
+#group2{
+    width: 500px;
+    height: 200px;
+    margin-left: 30%;
+    display: flex;
+    margin-top: 10px;
+}
+#box3{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px 25px;
+}
+#box4{
+    width: 200px;
+    height: 200px;
+    background-color: #467941;
+    border-radius: 25px 100px;
+    margin-left: 10px;
+}
+#footer{
+    width: 100%;
+    margin-top: 5%;
+    display: flex;
+}
+#minat{
+    text-align: center;
+    width: 20%;
+    margin-left: 20%;
+}
+#diskon{
+    width: 30%;
+    background-color: red;
+    margin-left: 35%;
+    color: white;
+}
+#info{
+    margin-left: 20%;
+    display: flex;
+}
+#icon{
+    border-radius: 50%;
+}
